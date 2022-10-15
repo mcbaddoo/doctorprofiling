@@ -1,1 +1,3 @@
-# doctorprofiles
+Established a new segmentation strategy to improve marketing and product planning for a medical device manufacturer by taking advantage of feature engineering, K-nearest neighbor imputation, Bayesian negative-binomial regression, kernel density estimate, spectral embedding and K-Means.
+  - Discovered 75% probability that doctors who complain more also purchase more, but most likely at an increased purchase rate of only +6% and overall purchase range between -11% and +25%.
+  - Revealed 3 segments of doctors with distinct profiles in their relationship to the manufacturer that can inform product and marketing development (new business relationship and indifferent attitude, long standing business relationship with high complaints, new business relationship with few complaints).
